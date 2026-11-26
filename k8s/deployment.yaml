@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: api
-          image: ghcr.io/iishal14/mlops-lab:sha-bfd6a9f
+          image: ghcr.io/iishal14/mlops-lab:sha-ecff804
           ports:
             - containerPort: 8000
           readinessProbe:
